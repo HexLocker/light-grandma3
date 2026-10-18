@@ -1,48 +1,41 @@
 {
   "queue": "4",
   "subqueue": "4.1",
-  "date": "18.10.2026",
-  "updated": "18.10.2026 о 22:00",
+  "date": "19.10.2026",
+  "updated": "19.10.2026 о 00:30",
   "currentStatus": "on",
-  "nextChange": null,
+  "nextChange": {
+    "time": "12:00",
+    "status": "off"
+  },
   "periods": [
     {
       "start": "00:00",
-      "end": "10:00",
-      "status": "on"
-    },
-    {
-      "start": "10:00",
       "end": "12:00",
-      "status": "off"
+      "status": "on"
     },
     {
       "start": "12:00",
       "end": "14:00",
-      "status": "on"
+      "status": "off"
     },
     {
       "start": "14:00",
       "end": "18:00",
-      "status": "off"
+      "status": "on"
     },
     {
       "start": "18:00",
       "end": "20:00",
-      "status": "on"
-    },
-    {
-      "start": "20:00",
-      "end": "21:00",
       "status": "off"
     },
     {
-      "start": "21:00",
+      "start": "20:00",
       "end": "24:00",
       "status": "on"
     }
   ],
   "sourceUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-  "checkedAt": "22:22",
+  "checkedAt": "00:42",
   "isToday": true
 }
