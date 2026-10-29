@@ -2,10 +2,10 @@
   "queue": "4",
   "subqueue": "4.1",
   "date": "29.10.2026",
-  "updated": "29.10.2026 о 10:30",
+  "updated": "29.10.2026 о 17:30",
   "currentStatus": "on",
   "nextChange": {
-    "time": "12:00",
+    "time": "18:00",
     "status": "off"
   },
   "periods": [
@@ -36,6 +36,6 @@
     }
   ],
   "sourceUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-  "checkedAt": "10:47",
+  "checkedAt": "17:56",
   "isToday": true
 }
