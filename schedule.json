@@ -1,56 +1,61 @@
 {
   "queue": "4",
   "subqueue": "4.1",
-  "date": "06.11.2026",
-  "updated": "06.11.2026 о 17:00",
+  "date": "07.11.2026",
+  "updated": "07.11.2026 о 15:30",
   "currentStatus": "on",
   "nextChange": {
-    "time": "18:00",
+    "time": "16:00",
     "status": "off"
   },
   "periods": [
     {
       "start": "00:00",
-      "end": "04:00",
+      "end": "02:00",
       "status": "off"
     },
     {
-      "start": "04:00",
-      "end": "07:30",
+      "start": "02:00",
+      "end": "06:00",
       "status": "on"
     },
     {
-      "start": "07:30",
-      "end": "10:00",
+      "start": "06:00",
+      "end": "08:00",
       "status": "off"
+    },
+    {
+      "start": "08:00",
+      "end": "10:00",
+      "status": "on"
     },
     {
       "start": "10:00",
-      "end": "12:00",
-      "status": "on"
-    },
-    {
-      "start": "12:00",
-      "end": "17:00",
+      "end": "14:00",
       "status": "off"
     },
     {
-      "start": "17:00",
-      "end": "18:00",
+      "start": "14:00",
+      "end": "16:00",
       "status": "on"
     },
     {
-      "start": "18:00",
+      "start": "16:00",
+      "end": "20:00",
+      "status": "off"
+    },
+    {
+      "start": "20:00",
       "end": "22:00",
-      "status": "off"
+      "status": "on"
     },
     {
       "start": "22:00",
       "end": "24:00",
-      "status": "on"
+      "status": "off"
     }
   ],
   "sourceUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-  "checkedAt": "17:07",
+  "checkedAt": "15:35",
   "isToday": true
 }
