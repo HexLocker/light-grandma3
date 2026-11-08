@@ -2,11 +2,11 @@
   "queue": "4",
   "subqueue": "4.1",
   "date": "08.11.2026",
-  "updated": "08.11.2026 о 03:00",
-  "currentStatus": "on",
+  "updated": "08.11.2026 о 09:30",
+  "currentStatus": "off",
   "nextChange": {
-    "time": "07:00",
-    "status": "off"
+    "time": "11:00",
+    "status": "on"
   },
   "periods": [
     {
@@ -16,6 +16,16 @@
     },
     {
       "start": "01:30",
+      "end": "03:30",
+      "status": "on"
+    },
+    {
+      "start": "03:30",
+      "end": "05:00",
+      "status": "off"
+    },
+    {
+      "start": "05:00",
       "end": "07:00",
       "status": "on"
     },
@@ -51,6 +61,6 @@
     }
   ],
   "sourceUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-  "checkedAt": "03:29",
+  "checkedAt": "09:54",
   "isToday": true
 }
